@@ -4,7 +4,9 @@ From file manipulation to network configuration, master the essentials for effic
 Boost productivity and navigate the Linux operating system like a pro.  
 Perfect for beginners and seasoned users alike.  
 
-📘 **By:** CodeWithHarry  
+https://chmod-calculator.com
+
+📘 **By:** Chinmay
 📅 **Updated:** April 5, 2025  
 
 ---
