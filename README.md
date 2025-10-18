@@ -141,4 +141,4 @@ Perfect for beginners and seasoned users alike.
 ---
 
 ✨ **Keep Learning, Keep Building!**  
-Made with ❤️ by *CodeWithHarry Fans Community*
+Made with ❤️ by **Chinmay**
